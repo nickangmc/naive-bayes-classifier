@@ -35,7 +35,7 @@ e.g.
 
 ---
 ### Analysis
-##### The following is my own interpretation and attempt to answer the question given. There were 2 questions that I've attempted in total, feel free to check out the code file (.ipynb) for more details.
+##### The following is my own interpretation and attempt to answer the question given. There were 2 questions that I've attempted in total, feel free to check out the [code file](https://github.com/nickangmc/naive-bayes-classifier/blob/master/naive-bayes-classifier.ipynb) (.ipynb) for more details.
 
 - How does information gain of each attribute, with relative to the class distribution, affect the behaviours of the classifier?
 
