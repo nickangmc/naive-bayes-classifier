@@ -52,6 +52,3 @@ One particular surprising result is that the value of accuracy stays the same ev
 ### Project Outcome
 All the tasks and challenges within the scope of this project were completed. 
 
----
-
-Note: More details regarding the project scopes and specs can found in the _"2019S1-proj1"_ pdf file in the _"Project Specs"_ folder in this repo.
